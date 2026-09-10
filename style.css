@@ -1,4 +1,19 @@
 body {
  background-image: url("assets/logo_squared.png");
  background-color: #2c2136;
+   /* Scale the image to cover the entire screen without distortion */
+  background-size: cover; 
+  
+  /* Keep the image centered horizontally and vertically */
+  background-position: center center; 
+  
+  /* Prevent the image from repeating like a tile */
+  background-repeat: no-repeat; 
+  
+  /* Fix the image in place so it doesn't scroll with the content */
+  background-attachment: fixed; 
+  
+  /* Ensure the body takes up the full height of the viewport */
+  min-height: 100vh; 
+  margin: 0;
 }
