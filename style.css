@@ -3,6 +3,7 @@ body {
  background-color: #2c2136;
    /* Scale the image to cover the entire screen without distortion */
   background-size: cover; 
+ 
   
   /* Keep the image centered horizontally and vertically */
   background-position: center center; 
@@ -13,5 +14,5 @@ body {
   /* Fix the image in place so it doesn't scroll with the content */
   background-attachment: fixed; 
   
-
+  background-size: 300px;
 }
