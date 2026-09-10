@@ -13,7 +13,5 @@ body {
   /* Fix the image in place so it doesn't scroll with the content */
   background-attachment: fixed; 
   
-  /* Ensure the body takes up the full height of the viewport */
-  min-height: 100vh; 
-  margin: 0;
+
 }
