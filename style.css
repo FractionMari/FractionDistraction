@@ -31,7 +31,8 @@ p {
  font-family: 'Breamcatcher', sans-serif;
 }
 .text {
-  position: center;
+  position: absolute;
+  left: 50%;
 
 }
 
