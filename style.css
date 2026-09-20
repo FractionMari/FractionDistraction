@@ -31,6 +31,10 @@ p {
  font-family: 'Breamcatcher', sans-serif;
 }
 
+.a {
+  text-align: center;
+}
+
 .text {
 
   position: absolute;
