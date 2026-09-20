@@ -32,8 +32,7 @@ p {
 }
 .text {
   position: absolute;
-    align-items: center;  
-  left: 50%;
+  justify-content: center; 
   width: 20%;
     height: 5%;
 
