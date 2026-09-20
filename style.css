@@ -8,6 +8,7 @@ body {
  background-image: url("assets/logo_squared.png");
  background-color: #2c2136;
  color: #fff7cb;
+text-align: center;
  font-family: 'Breamcatcher', sans-serif;
                                                 
    /* Scale the image to cover the entire screen without distortion */
@@ -30,8 +31,9 @@ p {
  color: #fff7cb;
  font-family: 'Breamcatcher', sans-serif;
 }
+
 .text {
-text-align: center;
+
   position: absolute;
   justify-content: center; 
   width: 20%;
