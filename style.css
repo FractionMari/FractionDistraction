@@ -1,3 +1,9 @@
+@font-face {
+    font-family: 'Breamcatcher';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Breamcatcher'), url('https://fonts.cdnfonts.com/s/15066/breamcatcher.woff') format('woff');
+}
 body {
  background-image: url("assets/logo_squared.png");
  background-color: #2c2136;
@@ -19,6 +25,7 @@ body {
   
   background-size: 300px;
 }
+
 p {
  color: #fff7cb
  font-family: 'Breamcatcher', sans-serif;
