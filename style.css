@@ -32,6 +32,7 @@ p {
 }
 .text {
   position: absolute;
+    align-items: center;  
   left: 50%;
   width: 20%;
     height: 5%;
@@ -43,10 +44,14 @@ p {
   left: 0px;
   top: 0px;
   border: 3px solid #fff7cb;
+   width: 20%;
+    height: 5%;
 }
 .video2 {
   position: absolute;
   right: 0px;
   top: 0px;
   border: 3px solid #fff7cb;
+       width: 20%;
+    height: 5%;
 }
