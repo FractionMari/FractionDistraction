@@ -26,7 +26,25 @@ body {
   
   background-size: 300px;
 }
+/* unvisited link */
+a:link {
+  color: #fff7cb;
+}
 
+/* visited link */
+a:visited {
+  color: #ebde99;
+}
+
+/* mouse over link */
+a:hover {
+  color:  #fffbe4;
+}
+
+/* selected link */
+a:active {
+  color: #fff7cb;
+}
 p {
  color: #fff7cb;
  font-family: 'Breamcatcher', sans-serif;
