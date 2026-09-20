@@ -19,6 +19,14 @@ body {
   
   background-size: 300px;
 }
+p {
+ color: #fff7cb
+ font-family: 'Breamcatcher', sans-serif;
+}
+.text {
+  position: center;
+
+}
 
 .video1 {
   position: absolute;
