@@ -38,6 +38,8 @@ p {
 .text {
 
   position: absolute;
+  left: 50%;
+  right: 50%;
   justify-content: center; 
 
 }
